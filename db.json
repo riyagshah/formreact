@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "name": "Virat",
+      "age": "35",
+      "address": "Mumbai",
+      "department": "Officer",
+      "salary": "45000",
+      "married": true,
+      "profile": {
+        "0": {}
+      },
+      "id": 1
+    },
+    {
+      "name": "Suraj",
+      "age": "50",
+      "address": "Mumbai",
+      "department": "Executive Officer",
+      "salary": "50000",
+      "married": true,
+      "profile": {
+        "0": {}
+      },
+      "id": 2
+    },
+    {
+      "name": "Suraj",
+      "age": "55",
+      "address": "MP",
+      "department": "Manager",
+      "salary": "50000",
+      "married": false,
+      "profile": {
+        "0": {}
+      },
+      "unmarried": true,
+      "id": 3
+    },
+    {
+      "name": "Rupesh Tiwari",
+      "age": "22",
+      "address": "Karjaura",
+      "department": "Manager",
+      "salary": "60000",
+      "unmarried": true,
+      "profile": {
+        "0": {}
+      },
+      "id": 4
+    },
+    {
+      "name": "Vaibhav",
+      "age": "35",
+      "address": "Varanasi",
+      "department": "Executive Officer",
+      "salary": "35000",
+      "married": true,
+      "id": 5
+    },
+    {
+      "name": "Manish Tiwari",
+      "address": "Karjaura",
+      "age": "22",
+      "department": "Manager",
+      "salary": "50000",
+      "unmarried": true,
+      "profile": {
+        "0": {}
+      },
+      "id": 6
+    }
+  ]
+}
